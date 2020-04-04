@@ -4,6 +4,6 @@ This project is a personal foray into the field of digital humanities. It's an e
 
 # What you will find here
 
-- Data repo: a few .csv files in need of cleaning
+- Data: a few .csv files in need of cleaning
 
-- Code repo: some Jupyter Notebooks with extremely basic python code
+- Code: some Jupyter Notebooks with extremely basic python code
